@@ -3,7 +3,7 @@
 Open Registry Key is a Pale Moon fork of the Open RegEdit Key Firefox extension that lets you select a Windows registry key on a webpage and open Windows registry editor (regedit.exe) with that key selected in the editor.
 
 #### Supports
- * Pale Moon [32.0 - 32.*]
+ * Pale Moon [33.0 - 33.*]
 
 ## Building
 Simply download the contents of the repository and pack the src folder into a .zip file. Then, rename the file to .xpi and drag into the browser.
